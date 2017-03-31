@@ -3,7 +3,7 @@ Laboratório de Desenvolvimento de Software para a Web de 2017/1.
 
 ## Obtendo o projeto
 
-`git clone https://github.com/walison-moreira-ufg/lab-dw-2017-1`
+`git clone https://github.com/GuilhermeARS/lab-dw-2017-1.git`
 
 ## Executando a aplicação
 
